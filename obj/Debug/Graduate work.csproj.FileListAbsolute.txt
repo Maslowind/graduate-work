@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\bin\Debug\Graduate work.exe.config
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\bin\Debug\Graduate work.exe
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\bin\Debug\Graduate work.pdb
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate work.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate_work.Form1.resources
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate_work.Properties.Resources.resources
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate work.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate work.exe
+C:\Users\user\Desktop\Диплом\Graduate work\Graduate work\obj\Debug\Graduate work.pdb
